@@ -1,4 +1,4 @@
-# 🕷️ Webscraping using BeautifulSoup
+#  Webscraping using BeautifulSoup
 
 A simple yet powerful Python project that demonstrates web scraping using `BeautifulSoup`. This project showcases how to extract useful information from websites like quotes, news, products, or custom data — turning unstructured web content into structured data.
 
